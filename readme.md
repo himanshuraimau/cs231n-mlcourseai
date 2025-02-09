@@ -1,5 +1,5 @@
-## Following CS162
-[Website](https://cs162.org/)
+### Following cs231n and mlcourse.ai
+
 
 Here will update my progress on the course.
 - Assignment
