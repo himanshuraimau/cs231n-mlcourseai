@@ -8,3 +8,5 @@ pydotplus
 graphviz
 torch
 torchvision
+keras
+torchtext
