@@ -10,3 +10,4 @@ torch
 torchvision
 keras
 torchtext
+d2l
